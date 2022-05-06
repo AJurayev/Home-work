@@ -1,0 +1,26 @@
+
+body {
+    background-color: #102020;
+}
+
+.verholy {
+    background-color: #fff;
+}
+.home_work {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.home_work__h {
+    font-size: 70px; 
+}
+
+.home_work__i {
+    width: 300px;
+    height: 400px;
+}
+
+.home_work__p {
+    font-size: 40px;
+}
